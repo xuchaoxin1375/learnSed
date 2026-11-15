@@ -164,6 +164,11 @@ bash scripts/verify.sh
 
 发现错误或希望补充案例，欢迎提交 issue 或 pull request。修改示例后请运行 `bash scripts/verify.sh`。
 
+### 仓库地址
+
+- GitHub：[xuchaoxin1375/learnSed](https://github.com/xuchaoxin1375/learnSed)
+- Gitee：[xuchaoxin1375/learnSed](https://gitee.com/xuchaoxin1375/learnSed)
+
 ### 许可证
 
 本项目采用 MIT 许可证，详见 [LICENSE](LICENSE)。
