@@ -197,7 +197,7 @@ sed 's/\r$//' file.txt
 sed -b 's/\r$//' file.txt
 ```
 
-先用字节确认输入里到底有没有 CR：
+用 `sed -b -n 'l' file.txt` 查看时，行尾会显示 `\r$`，可以确认 CR 确实在模式空间里。先用字节确认输入里到底有没有 CR：
 
 ```shell
 printf 'a\r\n' | od -An -c
