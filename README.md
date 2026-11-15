@@ -121,6 +121,7 @@ printf 'hello world\n' | sed --debug 's/world/sed/'
 ```shell
 .
 ├── README.md
+├── LICENSE                 MIT 许可证
 ├── docs/                   教程正文
 ├── examples/
 │   ├── data/               练习与案例数据
@@ -162,3 +163,7 @@ bash scripts/verify.sh
 - [GNU 正则表达式语法](https://www.gnu.org/software/sed/manual/html_node/Regular-Expressions.html)：sed 使用的正则方言。
 
 发现错误或希望补充案例，欢迎提交 issue 或 pull request。修改示例后请运行 `bash scripts/verify.sh`。
+
+### 许可证
+
+本项目采用 MIT 许可证，详见 [LICENSE](LICENSE)。
