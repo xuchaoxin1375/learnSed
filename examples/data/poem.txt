@@ -1,0 +1,4 @@
+roses are red
+violets are blue
+sed is a stream editor
+and so are you

@@ -1,0 +1,7 @@
+Sed reads input line by line.
+It keeps the current line in the pattern space.
+
+Multiple lines can be joined with N.
+The hold space survives across cycles.
+
+This is the last paragraph.

@@ -1,0 +1,13 @@
+# /etc/hosts sample (all addresses are documentation examples)
+
+127.0.0.1       localhost
+127.0.1.1       devbox
+
+# development
+10.0.0.5        api.dev.local
+10.0.0.6        db.dev.local      # primary database
+10.0.0.7        cache.dev.local
+
+# production
+10.1.0.5        api.prod.local
+10.1.0.6        db.prod.local

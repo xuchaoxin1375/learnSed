@@ -1,0 +1,3 @@
+Hello, {{NAME}}!
+Order {{ORDER_ID}} is ready.
+Contact: {{EMAIL}}

@@ -1,0 +1,5 @@
+# Temporary files created while following the tutorial
+tmp/
+*.bak
+*.tmp
+.DS_Store
